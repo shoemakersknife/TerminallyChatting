@@ -1,6 +1,6 @@
 # TerminallyChatting
 
-Terminal-based chat application written in Python. I remember having this idea years ago back in middle school but I randomly dreamed about it as an undergraduate.
+A terminal-based chat application written in Python. I remember having this idea years ago back in middle school but I randomly had a dream reminding me about it as an undergraduate.
 
 -Socket programming, threading
 -TCP/IP client-server communication
